@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>LogQueryBenchmarks-14480219-134818</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.13.12, Windows 11 (10.0.26200.8246)
+Unknown processor
+.NET SDK 10.0.103
+  [Host]     : .NET 10.0.3 (10.0.326.7603), X64 RyuJIT AVX2
+  DefaultJob : .NET 10.0.3 (10.0.326.7603), X64 RyuJIT AVX2
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method        </th><th>RowsToReturn</th><th>Mean</th><th>Error</th><th>StdDev</th><th>Median</th><th>Ratio</th><th>RatioSD</th><th>Gen0</th><th>Allocated</th><th>Alloc Ratio</th>
+</tr>
+</thead><tbody><tr><td>WithoutCompiledQuery</td><td>1</td><td>444.0 &mu;s</td><td>39.94 &mu;s</td><td>111.99 &mu;s</td><td>409.5 &mu;s</td><td>1.00</td><td>0.00</td><td>0.4883</td><td>17.34 KB</td><td>1.00</td>
+</tr><tr><td>WithCompiledQuery</td><td>1</td><td>390.7 &mu;s</td><td>26.61 &mu;s</td><td>74.17 &mu;s</td><td>371.7 &mu;s</td><td>0.92</td><td>0.26</td><td>-</td><td>6.77 KB</td><td>0.39</td>
+</tr><tr><td>WithoutCompiledQuery</td><td>10</td><td>388.7 &mu;s</td><td>19.65 &mu;s</td><td>55.10 &mu;s</td><td>374.6 &mu;s</td><td>1.00</td><td>0.00</td><td>0.9766</td><td>19.03 KB</td><td>1.00</td>
+</tr><tr><td>WithCompiledQuery</td><td>10</td><td>379.6 &mu;s</td><td>19.21 &mu;s</td><td>53.54 &mu;s</td><td>369.4 &mu;s</td><td>1.00</td><td>0.21</td><td>-</td><td>8.45 KB</td><td>0.44</td>
+</tr><tr><td>WithoutCompiledQuery</td><td>100</td><td>513.4 &mu;s</td><td>45.05 &mu;s</td><td>129.99 &mu;s</td><td>511.1 &mu;s</td><td>1.00</td><td>0.00</td><td>1.9531</td><td>36.22 KB</td><td>1.00</td>
+</tr><tr><td>WithCompiledQuery</td><td>100</td><td>396.8 &mu;s</td><td>18.88 &mu;s</td><td>52.33 &mu;s</td><td>381.5 &mu;s</td><td>0.82</td><td>0.25</td><td>0.9766</td><td>25.33 KB</td><td>0.70</td>
+</tr></tbody></table>
+</body>
+</html>

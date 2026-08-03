@@ -1,0 +1,6 @@
+@DependencyInjectionLifetimes_HostAddress = http://localhost:5097
+
+GET {{DependencyInjectionLifetimes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "DependencyInjectionLifetimes.Controllers.HomeController",
+    "Method": "GetScoped",
+    "RelativePath": "api/Home/Scoped",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DependencyInjectionLifetimes.Controllers.HomeController",
+    "Method": "GetSingleton",
+    "RelativePath": "api/Home/Singleton",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DependencyInjectionLifetimes.Controllers.HomeController",
+    "Method": "GetTransient",
+    "RelativePath": "api/Home/Transient",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

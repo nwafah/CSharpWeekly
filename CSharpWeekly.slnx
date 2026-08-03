@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CompiledQueries.Benchmarks/CompiledQueries.Benchmarks.csproj" Id="4e568190-99cc-4d27-8487-f8b059cd97b8" />
+  <Project Path="CompiledQueries/CompiledQueries.csproj" Id="35e2a9d2-653f-4dff-821c-f273d198ecd1" />
+  <Project Path="DependencyInjectionLifetimes/DependencyInjectionLifetimes.csproj" />
+</Solution>
