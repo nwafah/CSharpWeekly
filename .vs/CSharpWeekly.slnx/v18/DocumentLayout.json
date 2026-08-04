@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D\\github\\CSharpWeekly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{330999E5-CC61-453D-8685-B00E158EA3B8}|EFCoreConcurrency\\EFCoreConcurrency.csproj|c:\\d\\github\\csharpweekly\\efcoreconcurrency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330999E5-CC61-453D-8685-B00E158EA3B8}|EFCoreConcurrency\\EFCoreConcurrency.csproj|solutionrelative:efcoreconcurrency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330999E5-CC61-453D-8685-B00E158EA3B8}|EFCoreConcurrency\\EFCoreConcurrency.csproj|c:\\d\\github\\csharpweekly\\efcoreconcurrency\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330999E5-CC61-453D-8685-B00E158EA3B8}|EFCoreConcurrency\\EFCoreConcurrency.csproj|solutionrelative:efcoreconcurrency\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330999E5-CC61-453D-8685-B00E158EA3B8}|EFCoreConcurrency\\EFCoreConcurrency.csproj|c:\\d\\github\\csharpweekly\\efcoreconcurrency\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330999E5-CC61-453D-8685-B00E158EA3B8}|EFCoreConcurrency\\EFCoreConcurrency.csproj|solutionrelative:efcoreconcurrency\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5573C-4704-2B24-40B1-D0B63D2457C5}|DependencyInjectionLifetimes\\DependencyInjectionLifetimes.csproj|c:\\d\\github\\csharpweekly\\dependencyinjectionlifetimes\\servicelifetimes\\transient\\services\\mytransientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5573C-4704-2B24-40B1-D0B63D2457C5}|DependencyInjectionLifetimes\\DependencyInjectionLifetimes.csproj|solutionrelative:dependencyinjectionlifetimes\\servicelifetimes\\transient\\services\\mytransientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5573C-4704-2B24-40B1-D0B63D2457C5}|DependencyInjectionLifetimes\\DependencyInjectionLifetimes.csproj|c:\\d\\github\\csharpweekly\\dependencyinjectionlifetimes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5573C-4704-2B24-40B1-D0B63D2457C5}|DependencyInjectionLifetimes\\DependencyInjectionLifetimes.csproj|solutionrelative:dependencyinjectionlifetimes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5573C-4704-2B24-40B1-D0B63D2457C5}|DependencyInjectionLifetimes\\DependencyInjectionLifetimes.csproj|c:\\d\\github\\csharpweekly\\dependencyinjectionlifetimes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5573C-4704-2B24-40B1-D0B63D2457C5}|DependencyInjectionLifetimes\\DependencyInjectionLifetimes.csproj|solutionrelative:dependencyinjectionlifetimes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 352,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\D\\github\\CSharpWeekly\\EFCoreConcurrency\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EFCoreConcurrency\\AppDbContext.cs",
+              "ToolTip": "C:\\D\\github\\CSharpWeekly\\EFCoreConcurrency\\AppDbContext.cs",
+              "RelativeToolTip": "EFCoreConcurrency\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T09:53:40.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyTransientService.cs",
+              "DocumentMoniker": "C:\\D\\github\\CSharpWeekly\\DependencyInjectionLifetimes\\ServiceLifetimes\\Transient\\Services\\MyTransientService.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionLifetimes\\ServiceLifetimes\\Transient\\Services\\MyTransientService.cs",
+              "ToolTip": "C:\\D\\github\\CSharpWeekly\\DependencyInjectionLifetimes\\ServiceLifetimes\\Transient\\Services\\MyTransientService.cs",
+              "RelativeToolTip": "DependencyInjectionLifetimes\\ServiceLifetimes\\Transient\\Services\\MyTransientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T07:31:31.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\D\\github\\CSharpWeekly\\DependencyInjectionLifetimes\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionLifetimes\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\D\\github\\CSharpWeekly\\DependencyInjectionLifetimes\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DependencyInjectionLifetimes\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T07:31:16.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\D\\github\\CSharpWeekly\\DependencyInjectionLifetimes\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionLifetimes\\Program.cs",
+              "ToolTip": "C:\\D\\github\\CSharpWeekly\\DependencyInjectionLifetimes\\Program.cs",
+              "RelativeToolTip": "DependencyInjectionLifetimes\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T07:31:13.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\D\\github\\CSharpWeekly\\EFCoreConcurrency\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreConcurrency\\Program.cs",
+              "ToolTip": "C:\\D\\github\\CSharpWeekly\\EFCoreConcurrency\\Program.cs",
+              "RelativeToolTip": "EFCoreConcurrency\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T07:29:05.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\D\\github\\CSharpWeekly\\EFCoreConcurrency\\Product.cs",
+              "RelativeDocumentMoniker": "EFCoreConcurrency\\Product.cs",
+              "ToolTip": "C:\\D\\github\\CSharpWeekly\\EFCoreConcurrency\\Product.cs",
+              "RelativeToolTip": "EFCoreConcurrency\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T07:27:55.711Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

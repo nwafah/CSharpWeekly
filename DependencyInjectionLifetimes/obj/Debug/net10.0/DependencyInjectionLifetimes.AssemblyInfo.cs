@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DependencyInjectionLifetimes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c2a21c6bf5370300c7b0efa33d9ef87eb46ffd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("DependencyInjectionLifetimes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DependencyInjectionLifetimes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
