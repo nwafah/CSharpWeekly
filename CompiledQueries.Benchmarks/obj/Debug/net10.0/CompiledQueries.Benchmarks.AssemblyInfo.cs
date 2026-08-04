@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CompiledQueries.Benchmarks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c2a21c6bf5370300c7b0efa33d9ef87eb46ffd9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f92f20201ae0c6ba5863867334a38ef219fd56b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CompiledQueries.Benchmarks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CompiledQueries.Benchmarks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
