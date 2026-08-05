@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFCoreConcurrency")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f92f20201ae0c6ba5863867334a38ef219fd56b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46300f88be699ac1e8a4cd9c85ae849e1b479d52")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFCoreConcurrency")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFCoreConcurrency")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

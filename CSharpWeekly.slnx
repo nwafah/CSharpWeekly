@@ -3,4 +3,5 @@
   <Project Path="CompiledQueries/CompiledQueries.csproj" Id="35e2a9d2-653f-4dff-821c-f273d198ecd1" />
   <Project Path="DependencyInjectionLifetimes/DependencyInjectionLifetimes.csproj" />
   <Project Path="EFCoreConcurrency/EFCoreConcurrency.csproj" Id="330999e5-cc61-453d-8685-b00e158ea3b8" />
+  <Project Path="ResultPattern/ResultPattern.csproj" Id="8926abea-8ec9-4345-a893-ea144f28be80" />
 </Solution>
